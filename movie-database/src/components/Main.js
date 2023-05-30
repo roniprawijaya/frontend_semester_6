@@ -11,7 +11,7 @@ function Main() {
        * Mengirim props ke component Hello.
        * nama props: name
        */}
-      <Hello name="Aufa" />
+      <Hello name="wahyu" />
       <Hello name="Mikel" />
       <Hello name="Hannah" />
       <Hello name="Jonas" />
